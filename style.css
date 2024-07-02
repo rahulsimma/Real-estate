@@ -1,0 +1,706 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.header {
+    margin-left: 80px;
+} 
+.header a:hover{
+    color: red;
+}
+
+.page h2 {
+    font-style: italic;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+
+.page span {
+    color: rgb(215, 100, 12);
+}
+
+.ram {
+    color: yellow;
+    display: flex;
+}
+
+.home {
+    color: rgb(212, 212, 14);
+}
+
+.header {
+    margin-top: -22px;
+}
+
+.header a {
+    justify-content: center;
+    text-decoration: none;
+    margin-left: 70px;
+    margin-top: 1000px;
+}
+
+.section span {
+    display: flex;
+    margin-left: 1000px;
+    color: rgb(189, 189, 3);
+    margin-top: -27px;
+}
+
+.style h3 {
+    margin-left: 1100px;
+    margin-top: -10px;
+    color: gray;
+}
+
+.style span {
+    color: black;
+}
+
+.image {
+    /* border: 3px solid black; */
+    width: 1200px;
+    height: 600px;
+    margin-left: 60px;
+    margin-top: -120px;
+    background-image: url(https://cdn.trendir.com/wp-content/uploads/2016/09/Metallic-and-Glass-modern-House.jpg);
+    filter: brightness(-1000px);
+    background-size: cover;
+}
+
+
+.content {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 200px;
+    color: rgb(221, 219, 202);
+    margin-left: 150px;
+    margin-top: -340px;
+}
+
+.content h1 {
+    font-size: 40px;
+}
+
+.content p {
+    font-size: 20px;
+    color: rgb(217, 217, 195);
+}
+
+.icon {
+    border: 2px solid yellow;
+    background-color: yellow;
+    margin-left: 1000px;
+    margin-top: -10%;
+    padding-right: 3%;
+    padding-left: 2%;
+    height: 60px;
+    width: 2px;
+    padding-top: 12px;
+    border-radius: 100px;
+}
+
+.icon i {
+    margin-top: 7px;
+}
+
+.black {
+    /* border: 2px solid black; */
+    background-color: rgb(44, 44, 44);
+    width: 560px;
+    height: 250px;
+    color: rgb(160, 146, 146);
+    margin-left: 700px;
+    margin-top: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.black h2 {
+    display: flex;
+    justify-content: center;
+    margin-left: -90px;
+}
+
+.black p {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-weight: 1px;
+    margin-left: 40px;
+    margin-top: -40px;
+}
+
+.black i {
+    color: yellow;
+    margin-left: 100px;
+
+}
+
+.num {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin-left: 25px;
+    margin-top: -440px;
+    font-size: 13px;
+}
+
+.mail {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin-left: 25px;
+    margin-top: -270px;
+    font-size: 13px;
+}
+
+.line {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin-left: 19px;
+    margin-top: 22px;
+    font-size: 13px;
+}
+
+.page1 {
+    width: 1260px;
+    height: 500px;
+    /* border: 2px solid black; */
+    margin-top: -248px;
+    background-image: url(https://i.pinimg.com/originals/00/30/15/00301557227c68d94373f489067996e0.jpg);
+    background-size: cover;
+}
+
+.page1 h4 {
+    color: rgb(219, 219, 58);
+    margin-left: 190px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.page1 h1 {
+    margin-left: 190px;
+}
+
+.yellowline {
+    color: rgb(225, 225, 92);
+    writing-mode: vertical-rl;
+    margin-left: 150px;
+    margin-top: 280px;
+
+}
+
+.bomma {
+    margin-left: 190px;
+    font-size: 22px;
+    color: gray;
+    margin-top: 60px;
+}
+
+.mop {
+    /* border: 2px solid black; */
+    width: 200px;
+    font-size: 20px;
+    color: gray;
+    margin-left: 250px;
+    margin-top: -120px;
+}
+
+.para {
+    /* border: 2px solid black; */
+    width: 500px;
+    color: gray;
+    margin-left: 550px;
+    margin-top: -140px;
+}
+
+.photo {
+    /* border: 2px solid black; */
+    background-image: url(https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg);
+    background-size: cover;
+    width: 670px;
+    height: 400px;
+    margin-top: 90px;
+    margin-left: 0px;
+}
+
+.photo1 {
+    /* border: 2px solid black; */
+    width: 340px;
+    height: 400px;
+    background-image: url(https://qph.cf2.quoracdn.net/main-qimg-2310e519a7c589a534e7c3c50ccd9690-lq);
+    background-size: cover;
+    margin-top: -320px;
+    margin-left: 70px;
+}
+
+.page2 p {
+    margin-left: 160px;
+    color: gray;
+}
+
+.photo2 {
+    /* border: 2px solid black; */
+    width: 320px;
+    height: 400px;
+    background-image: url(https://www.home-designing.com/wp-content/uploads/2021/10/dimmable-floor-lamps-for-living-room-metal-tripod-base-black-finish-drum-shade-minimalist-modern-lighting-for-sale-cheap-on-amazon-600x600.jpg);
+    background-size: 400px;
+    margin-top: -435px;
+    margin-left: 450px;
+}
+
+.page2 a {
+    margin-left: 530px;
+    color: gray;
+}
+
+.content1 {
+    /* border: 2px solid black; */
+    width: 420px;
+    height: 240px;
+    align-items: center;
+    margin-left: 830px;
+    margin-top: -435px;
+}
+
+.content1 p {
+    margin-left: 3px;
+    margin-top: 40px;
+}
+
+.icon2 {
+    border: 1px solid grey;
+    background-color: white;
+    margin-left: 830px;
+    margin-top: 20px;
+    padding-right: 3%;
+    padding-left: 2%;
+    height: 60px;
+    width: 1px;
+    padding-top: 19px;
+    border-radius: 200px;
+}
+
+.say {
+    justify-content: center;
+    margin-left: 920px;
+    color: gray;
+    font-size: large;
+    margin-top: -40px;
+}
+
+.rahul {
+    /* border: 2px solid black; */
+    width: 340px;
+    font-size: large;
+    margin-left: 200px;
+    margin-top: -60px;
+    color: rgb(45, 38, 38);
+}
+
+.rahul1 {
+    /* border: 2px solid black; */
+    width: 340px;
+    font-size: large;
+    margin-left: 570px;
+    margin-top: -80px;
+    color: rgb(45, 38, 38);
+}
+
+.click {
+    background-color: rgb(231, 177, 60);
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    margin-left: 970px;
+    margin-top: 220px;
+    border: none;
+}
+.click:hover{
+background-color:skyblue;}
+
+.black1 {
+    border: 2px solid black;
+    width: 100%;
+    height: 700px;
+    margin-top: 170px;
+    background-image: url(https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg);
+    background-size: cover;
+}
+
+.content3 {
+    /* border: 2px solid black; */
+    background-color: white;
+    width: 340px;
+    height: 150px;
+    margin-top: -450px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(56, 53, 53);
+    margin-left: 150px;
+}
+
+.content3 h2 {
+    margin-left: 20px;
+}
+
+.content3 p {
+    margin-left: 20px;
+    color: yellow;
+    float: left;
+}
+
+.content3 i {
+    margin-left: 20px;
+}
+
+.bedroom1 {
+    /* border: 2px solid black;  */
+    width: 560px;
+    height: 340px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: -530px;
+    background-image: url(https://beddley.com/cdn/shop/articles/luxury-bedrooms-ideas-exploring-opulence-and-tranquility-beddley-com.jpg?v=1713044454);
+    background-size: cover;
+}
+
+.kitchen {
+    /* border: 2px solid black;  */
+    width: 440px;
+    height: 440px;
+    background-color: white;
+    margin-left: 710px;
+    margin-top: -230px;
+    background-image: url(https://i.pinimg.com/originals/a1/a3/8f/a1a38ff6146f5fc2e7cfc84bd52f8708.jpg);
+    background-size: cover;
+}
+
+.content4 {
+    /* border: 2px solid black; */
+    background-color: white;
+    width: 340px;
+    height: 150px;
+    margin-top: -40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(56, 53, 53);
+    margin-left: 880px;
+}
+
+.content4 h2 {
+    margin-left: 20px;
+}
+
+.content4 p {
+    margin-left: 20px;
+    color: yellow;
+    float: left;
+}
+
+.content4 i {
+    margin-left: 20px;
+}
+
+.kumar {
+    /* border: 2px solid black;  */
+    background-color: white;
+    width: 950px;
+    height: 500px;
+    background-image: url(https://img.freepik.com/free-photo/3d-rendering-loft-scandinavian-living-room-with-working-table-bookshelf_105762-2141.jpg);
+    background-size: cover;
+    margin-left: 140px;
+    margin-top: -220px;
+}
+
+.content5 {
+    /* border: 2px solid black; */
+    background-color: white;
+    width: 340px;
+    height: 150px;
+    margin-top: -80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 200px;
+}
+
+.content5 h2 {
+    margin-left: 20px;
+    color: rgb(46, 43, 43);
+}
+
+.content5 p {
+    margin-left: 20px;
+    color: gray;
+    float: left;
+}
+
+.mice {
+    color: rgb(155, 119, 21);
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin-left: 84px;
+    margin-top: -340px;
+    font-size: 13px;
+}
+
+.mouse {
+    color: rgb(155, 119, 21);
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin-left: 80px;
+    margin-top: 350px;
+    font-size: 13px;
+}
+
+.property {
+    /* border: 2px solid black; */
+    width: 340px;
+    margin-left: 80px;
+    margin-top: 140px;
+}
+
+.property h1 {
+    font-size: 36px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.city ul {
+    display: flex;
+    list-style: none;
+    ;
+    color: gray;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 80px;
+    gap: 20px;
+}
+
+.city1 ul {
+    display: flex;
+    list-style: none;
+    ;
+    color: gray;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 80px;
+    gap: 20px;
+}
+
+.info {
+    width: 200px;
+    height: 35px;
+    background-color: rgb(57, 52, 52);
+    color: white;
+    border: none;
+    margin-left: 80px;
+    margin-top: 40px;
+    align-items: center;
+}
+.info:hover{background-color: yellow;color: gray;}
+
+.ramu {
+    border: 2px solid rgb(238, 227, 227);
+    border: no;
+    width: 240px;
+    height: 280px;
+    margin-left: 500px;
+    margin-top: -330px;
+    background-image: url(https://media.istockphoto.com/id/1150064160/photo/residential-luxury-apartments-facade-in-downtown-london.jpg?s=612x612&w=0&k=20&c=N-wUeyGDvFPq7d0_z0yybyovN6lNMB5tIPrT3QlnTSE=);
+}
+
+.ramu1 {
+    border: 2px solid rgb(237, 231, 231);
+    text-align: center;
+    width: 240px;
+    height: 110px;
+    margin-left: 500PX;
+}
+
+.ramu2 {
+    border: 2px solid rgb(238, 227, 227);
+    border: none;
+    width: 240px;
+    height: 340px;
+    margin-left: 738px;
+    margin-top: -440px;
+    background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/d5/4e/23/caption.jpg?w=700&h=-1&s=1);
+    background-size: cover;
+}
+
+.ramu3 {
+    border: 2px solid rgb(235, 228, 228);
+    text-align: center;
+    width: 240px;
+    height: 155px;
+    text-align: center;
+    margin-left: 738px;
+}
+
+.ramu4 {
+    border: 2px solid rgb(8, 6, 6);
+    border: none;
+    width: 230px;
+    height: 280px;
+    margin-left: 978px;
+    margin-top: -445px;
+    background-image: url(https://amazingarchitecture.com/storage/files/1/architecture-firms/amin-moazzen/eagle-in-the-rain/eagle_in_the_rain_amin_moazzen_iran-1.jpg);
+    background-size: cover;
+}
+
+.ramu5 {
+    border: 2px solid rgb(237, 231, 231);
+    text-align: center;
+    width: 230px;
+    height: 110px;
+    margin-top: -2px;
+    margin-left: 978px;
+}
+
+.page5 {
+    /* border: 2px solid black;  */
+    width: 100%;
+    height: 1000px;
+    margin-top: 100px;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/012/955/325/small/cityscape-modern-flat-line-landscape-city-landscape-line-art-illustration-with-building-tower-skyscrapers-illustration-vector.jpg);
+    background-size: 2800px;
+}
+
+.slide {
+    /* border: 2px solid black; */
+    width: 380px;
+    height: 140px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 100px;
+    font-size: 15px;
+    margin-top: -920px
+}
+
+.lamp {
+    /* border: 2px solid black; */
+    width: 360px;
+    height: 330px;
+    margin-top: 40px;
+    margin-left: 100px;
+    background-image: url(https://i.pinimg.com/564x/3c/fb/ab/3cfbabdb530efb88e227ba35da8382fb.jpg);
+    background-size: cover;
+}
+
+.topc {
+    /* border: 2px solid black; */
+    width: 300px;
+    height: 460px;
+    margin-top: -400px;
+    margin-left: 478px;
+    background-image: url(https://i.pinimg.com/736x/2c/d0/55/2cd0555d15457292a5e5e6de134a644f.jpg);
+    background-size: 330px;
+}
+
+.rocc {
+    /* border: 2px solid black; */
+    width: 300px;
+    height: 200px;
+    margin-left: 850px;
+    margin-top: -460px;
+}
+
+.voc{
+    /* border: 2px solid black; */
+    width: 370px;
+    height: 430px;
+    background-color: black;
+    margin-top:-30px;
+    margin-left:800px;
+    background-image: url(https://i.pinimg.com/736x/31/2a/7a/312a7a1ccda5368256cbd76ca3c99f77.jpg);
+    background-size: cover;
+
+}
+
+
+
+.page6 {
+    border: 2px solid black;
+    width: 100%;
+    height: 730px;
+    background-color: black;
+    margin-top: 210px;
+    background-image: url(https://st5.depositphotos.com/77208408/65072/i/450/depositphotos_650723962-stock-photo-silhouette-skyscrapers-dark-background-cityscape.jpg);
+    background-size: 1200px;
+}
+
+.yahoo {
+    background-color: yellow;
+    margin-top: 240px;
+    width: 1000px;
+    margin-left: 110px;
+}
+.vvv{
+    border: 2px solid black;
+    width: 450px;
+    height: 100px;
+    margin-left: 180px;
+    margin-top: -170px;
+}
+.login{
+   margin-left: 760px;
+   margin-top: -60px;
+   position: absolute;
+}
+.login input{width: 350px;
+height: 40px;
+background-color: black;
+color: gray;
+border-color: gray;}
+ 
+.inbuilt{
+    border: 2px solid black;
+    background-color: white;
+    justify-content: center;
+    margin-left: 1040px;
+    height: 30px;
+    margin-top: -56px;
+    position: relative;
+ }
+ .inbuilt i{
+    margin-left: 20px;
+    margin-top: 5px;
+    
+ }
+
+ .link{
+    margin-left: 100px;
+   margin-top: -420px;
+ }
+ .link a{
+    color: rgb(164, 147, 147);
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .social{
+    margin-left: 330px;
+   margin-top: -252px;
+ }
+ .social a{
+    color: rgb(183, 168, 168);
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .contact{
+    margin-left: 490px;
+   margin-top: -250px;
+ }
+ .contact a{
+    color: rgb(176, 157, 157);
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+.last{
+    margin-left: 800px;
+    /* border: 2px solid black; */
+    width: 350px;
+    margin-top: -180px;
+}
+.copyright{color: rgb(219, 208, 208);
+margin-left: 480px;
+margin-top: 220px;}
+
+.footer1 a:hover{
+    color:skyblue;}
